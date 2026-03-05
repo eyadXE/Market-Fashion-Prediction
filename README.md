@@ -1,6 +1,14 @@
 # Fashion Image Classification with Deep Learning
 
 ## Overview
+
+
+### Demo Video
+
+<video src="2026-03-05 23-49-44.mp4" controls width="600">
+Your browser does not support the video tag.
+</video>
+
 hugging face : https://huggingface.co/spaces/eyad222/Fashion-resnet/tree/main
 This project builds an end-to-end **Deep Learning system for fashion image classification**. The system takes an input image of a clothing item and predicts its category using a trained convolutional neural network.
 
