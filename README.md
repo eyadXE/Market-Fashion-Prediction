@@ -23,7 +23,7 @@ The project demonstrates the **complete machine learning lifecycle**:
 * Containerization with Docker
 * Preparing the system for deployment
 
-The final model achieved **~95% classification accuracy** on the validation dataset.
+The final model achieved **~95% classification accuracy** .
 
 ---
 
